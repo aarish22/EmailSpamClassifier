@@ -15,6 +15,7 @@ This project is a simple web application for classifying emails or SMS messages 
    ```bash
    git clone https://github.com/yourusername/spam-classifier.git
    cd spam-classifier
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
